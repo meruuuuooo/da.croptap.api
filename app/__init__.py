@@ -11,6 +11,7 @@ def create_app():
         "http://127.0.0.1:8000",
         "http://localhost:3000",
         "http://127.0.0.1:3000",
+        "https://da-croptap-api.onrender.com"
     ]
     
     # Add production origin from environment variable if set
